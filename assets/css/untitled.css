@@ -1,0 +1,53 @@
+a:hover {
+  /*color: #00aeff!important;*/
+  background: rgb(0,0,0)!important;
+}
+
+.menu-toggle.rounded {
+  background: rgb(0,0,0)!important;
+}
+
+#sidebar-nav li, #sidebar-wrapper {
+  background: black!important;
+}
+
+a {
+  color: #00aeff!important;
+  background: black!important;
+}
+
+portfolio-item:hover .caption {
+}
+
+@media (min-width:992px) {
+  .portfolio-item:hover .caption {
+    background-color: #00aeff35;
+  }
+}
+
+.btn.btn-light.btn-xl.mr-4 {
+}
+
+.btn-dark:not(:disabled):not(.disabled).active:focus, .btn-dark:not(:disabled):not(.disabled):active:focus, .show > .btn-dark.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgb(255,255,255)!important;
+}
+
+.btn.btn-dark.text-center.btn-xl.mr-4 {
+  align-items: center;
+}
+
+@media (min-width:992px) {
+  .masthead {
+    height: 100vh;
+  }
+}
+
+html {
+  overflow: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
