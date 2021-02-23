@@ -19,15 +19,3 @@
   }
 }
 
-@media (min-width: 300px) {
-  .callout {
-    padding: 132px;
-  }
-}
-
-@media (min-width: 768px) {
-  .callout {
-    padding: 349px;
-  }
-}
-

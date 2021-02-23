@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+  .callout2 {
+    padding: 349px;
+  }
+}
+
+@media (min-width: 300px) {
+  .callout2 {
+    padding: 132px;
+  }
+}
+
