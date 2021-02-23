@@ -10,3 +10,10 @@
   }
 }
 
+@media (min-width: 992px) {
+  .callout2 {
+    padding-top: 464px;
+    padding-bottom: 282px;
+  }
+}
+
